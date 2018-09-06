@@ -7,11 +7,7 @@
 * Follow this workflow, except fork from VandyFOSS/kubernetes: https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md
 
 ```
-export GOPATH=/home/matthew/go
-export PATH=$PATH:$GOPATH/bin
-working_dir=$GOPATH/src/k8s.io
-mkdir -p $working_dir
-cd $working_dir
+cd go/src/k8s.io
 git clone https://github.com/VandyFOSS/kubernetes
 cd $working_dir/kubernetes
 git remote add upstream https://github.com/kubernetes/kubernetes.git
