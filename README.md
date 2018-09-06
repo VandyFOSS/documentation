@@ -6,7 +6,7 @@
 * Find an issue
 * Follow this workflow, except fork from VandyFOSS/kubernetes: https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md
 
-'''
+```
 export GOPATH=/home/matthew/go
 export PATH=$PATH:$GOPATH/bin
 working_dir=$GOPATH/src/k8s.io
@@ -28,4 +28,4 @@ git checkout testfix
 
 git commit
 git push origin testfix
-'''
+```
