@@ -22,10 +22,10 @@ git fetch upstream
 git checkout master
 git rebase upstream/master
 git checkout testfix
-
 ./hack/update-gofmt.sh
 ./hack/update-bazel.sh
-
+// Make changes to file
+git add file
 git commit
 git push origin testfix
 ```
