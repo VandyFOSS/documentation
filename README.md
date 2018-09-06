@@ -1,1 +1,1 @@
-# using-git
+# Using git
