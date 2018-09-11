@@ -14,5 +14,6 @@ git remote set-url --push upstream no_push
 git fetch upstream
 git checkout master
 git rebase upstream/master
-git checkout testfix
+git checkout -b pkg-api-testing
+
 ```
