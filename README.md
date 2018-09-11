@@ -7,21 +7,12 @@
 * Follow this workflow, except fork from VandyFOSS/kubernetes: https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md
 
 ```
-cd go/src/k8s.io
-git clone https://github.com/VandyFOSS/kubernetes
-cd $working_dir/kubernetes
+fork
+go get -d github.com/mkenigs/kubernetes
 git remote add upstream https://github.com/kubernetes/kubernetes.git
 git remote set-url --push upstream no_push
-git remote -v
-cd $working_dir/kubernetes
 git fetch upstream
 git checkout master
 git rebase upstream/master
 git checkout testfix
-./hack/update-gofmt.sh
-./hack/update-bazel.sh
-// Make changes to file
-git add file
-git commit
-git push origin testfix
 ```
