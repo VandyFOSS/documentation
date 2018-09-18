@@ -17,7 +17,7 @@ git rebase upstream/master
 git checkout -b pkg-api-testing
 
 ```
-* Go to github.com/VandyFOSS/documentation
+* Go to https://github.com/VandyFOSS/documentation
 * Click fork in top right
 * Select your username
 * Should redirect you to the new fork. If not, go to github.com/username then click documentation
