@@ -22,10 +22,10 @@ git checkout -b pkg-api-testing
 * Select your username
 * Should redirect you to the new fork. If not, go to github.com/username then click documentation
 * Go to the file you want to change. Press the pencil. Make a change. Select create a new branch.
-* Click compare across fork. You should have:
-base fork: VandyFOSS/documentation
-base: master
-head fork: username/documentation
+* Click compare across fork. You should have:  
+base fork: VandyFOSS/documentation  
+base: master  
+head fork: username/documentation  
 compare: patchname
 
 * Click create pull request
