@@ -1,5 +1,3 @@
-# Using git
-
 # Contributing to Kubernetes
 * Sign the CLA: https://github.com/kubernetes/community/blob/master/CLA.md
 * Install go
@@ -15,5 +13,4 @@ git fetch upstream
 git checkout master
 git rebase upstream/master
 git checkout -b pkg-api-testing
-
 ```
