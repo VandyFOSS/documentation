@@ -6,10 +6,10 @@ Options usually  preceded by - or --, eg -h or --help
 Up arrow key: previous command
 
 ## File System
-/ is used to separate directories, and / is the root directory of the filesystem.
-~ represents your home directory, or the directory for your user.
-. represents the current directory
-.. represents the parent directory
+/ is used to separate directories, and / is the root directory of the filesystem   
+~ represents your home directory, or the directory for your user  
+. represents the current directory  
+.. represents the parent directory  
 . is also used to precede hidden files or directories
 
 ls: list contents of a directory (folder)  
