@@ -1,10 +1,15 @@
-#Using Terminal in Ubuntu
+# Using Terminal in Ubuntu
 
 Open Terminal: Ctrl+Alt+T
+
 mkdir
+
 ls
+
 cd
+
 File system: /, ~, ., .., hidden
+
 Tab, up arrow, !!
 
 man
