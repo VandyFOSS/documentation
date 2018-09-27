@@ -30,6 +30,16 @@ sudo apt install [package]
 sudo apt remove [package]  
 apt-cache search [keyword] 
 
+## Variables
+Set variable: var=value  
+Use value: $var  
+
+Environment variables get passed to child processes.  
+Create an environment variable: export var=value  
+Run command with different environment: env var=value command  
+Print all environment variables: env or printenv  
+Print specific variable: printenv var
+
 ## For futher exploration...
 find, grep  
 top, kill  
