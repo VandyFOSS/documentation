@@ -1,5 +1,4 @@
-```
-user=mkenigs
+```user=mkenigs
 src_dir=/home/matthew/src
 repo=documentation
 owner=VandyFOSS
@@ -15,5 +14,4 @@ git checkout -b mybranch
 //make changes
 git add sandbox.md
 git commit
-git push origin mybranch
-```
+git push origin mybranch```
