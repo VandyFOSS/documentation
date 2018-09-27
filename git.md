@@ -1,6 +1,6 @@
 ```
-user=username
-src_dir=/path/to/src
+user=username // your github username
+src_dir=/path/to/src // path to folder on local computer, eg /home/matthew/src
 repo=documentation
 owner=VandyFOSS
 mkdir $src_dir
