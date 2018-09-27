@@ -36,6 +36,8 @@ Use value: $var
 
 Set as environment variable: export var=value  
 Run command with different environment: env var=value command  
+Print all environment variables: env or printenv  
+Print specific variables: printenv var
 
 ## For futher exploration...
 find, grep  
