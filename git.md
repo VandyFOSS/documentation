@@ -1,5 +1,5 @@
-```user=mkenigs
-src_dir=/home/matthew/src
+```user=username
+src_dir=/path/to/src
 repo=documentation
 owner=VandyFOSS
 mkdir $src_dir
