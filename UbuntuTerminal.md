@@ -30,6 +30,13 @@ sudo apt install [package]
 sudo apt remove [package]  
 apt-cache search [keyword] 
 
+## Variables
+Set variable: var=value  
+Use value: $var  
+
+Set as environment variable: export var=value  
+Run command with different environment: env var=value command  
+
 ## For futher exploration...
 find, grep  
 top, kill  
