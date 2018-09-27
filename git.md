@@ -1,4 +1,5 @@
-```user=username
+```
+user=username
 src_dir=/path/to/src
 repo=documentation
 owner=VandyFOSS
