@@ -34,10 +34,11 @@ apt-cache search [keyword]
 Set variable: var=value  
 Use value: $var  
 
-Set as environment variable: export var=value  
+Environment variables get passed to child processes.  
+Create an environment variable: export var=value  
 Run command with different environment: env var=value command  
 Print all environment variables: env or printenv  
-Print specific variables: printenv var
+Print specific variable: printenv var
 
 ## For futher exploration...
 find, grep  
