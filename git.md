@@ -1,4 +1,4 @@
-'''
+```
 user=mkenigs
 src_dir=/home/matthew/src
 repo=documentation
@@ -16,4 +16,4 @@ git checkout -b mybranch
 git add sandbox.md
 git commit
 git push origin mybranch
-'''
+```
