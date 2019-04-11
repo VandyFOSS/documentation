@@ -23,6 +23,9 @@ Most commands have a -h or --help option
 man [command] will open the manual page  
 man -k [keyword] will search manual pages for a term
 
+## Sudo
+sudo: allows permitted users access to make
+
 ## Package Management
 sudo apt update  
 sudo apt upgrade  
