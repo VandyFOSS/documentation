@@ -24,7 +24,7 @@ man [command] will open the manual page
 man -k [keyword] will search manual pages for a term
 
 ## Sudo
-sudo: allows permitted users access to make
+sudo [command]: run command as superuser (grants admin access and lets command make important changes)
 
 ## Package Management
 sudo apt update  
