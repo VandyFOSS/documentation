@@ -47,3 +47,4 @@ Print specific variable: printenv var
 find, grep  
 top, kill  
 touch, echo, awk, less, cat, sed, |  
+vim
