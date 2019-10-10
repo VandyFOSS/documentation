@@ -40,3 +40,4 @@ git push origin {BRANCH}
 ```
 
 9. Open a Pull Request on Github.
+![PR](https://user-images.githubusercontent.com/40775676/66595527-bc4c1000-eb60-11e9-9c22-3544951ca059.png)
