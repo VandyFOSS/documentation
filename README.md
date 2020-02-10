@@ -11,4 +11,6 @@ See other files for getting started documentation. Current projects:
 Feel free to add projects or other issues here too.
 
 ## Merged PRs :tada:
+* https://github.com/NixOS/nix/pull/3173
+* https://github.com/NixOS/nix/pull/3190
 * https://github.com/NixOS/nix/pull/3191
