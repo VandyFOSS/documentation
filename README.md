@@ -13,7 +13,7 @@ See other files for getting started documentation. Current projects:
   * <https://github.com/urho3d/Urho3D>
   * [Video review](https://youtu.be/p8A4OTtegIc)
 * Todos:
-  * Try out this game engine, learn how its scripting works (how it interfaces with the engine), then make a basic Minecraft clone to learn how the engine holds up and what it needs improvement on. Then we can fix some issues.
+  * Try out this game engine, learn how its scripting works and how it interfaces with the engine, then make a basic Minecraft clone to learn how the engine holds up and what it needs improvement on. Then we can fix some issues.
   * Ideas for improvements to the engine so far:
     * Needs better artist tools - will check after using the engine
     * Better ECS performance, i.e. [here](https://github.com/urho3d/Urho3D/blob/master/Source/Urho3D/Scene/LogicComponent.h), more data-oriented etc. 
