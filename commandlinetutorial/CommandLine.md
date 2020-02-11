@@ -1,9 +1,27 @@
+# Welcome to the VFOSS command line tutorial!
+In this lesson, we will teach you all the skills you will need to know 
+and how to find our information about the things you need.
+
 # Intro to command line
 ## Basics
-Open Terminal: Ctrl+Alt+T, or find it in Applications  
-Most commands: command [options] [args]  
-Options usually  preceded by - or --, eg -h or --help  
-Up arrow key: previous command
+To open terminal:
+###
+    Linux: Ctrl+Alt+T, or find it in applications
+    Windows: open git bash
+    Mac: find it in applications
+most commands are in the format of
+###
+    command [options] [args] 
+Options are usually preceded by - or --, for example:
+###
+    vim -h
+    vim --help
+Arguments usually just follows the command, for example:
+###
+    Linux: telnet towel.blinkenlights.nl
+    Windows: telnet towel.blinkenlights.nl
+    Mac Sierra+: nc towel.blinkenlights.nl 23
+    Mac Sierra-: telnet towel.blinkenlights.nl
 
 ## File System
 / is used to separate directories, and / is the root directory of the filesystem   
@@ -48,3 +66,4 @@ find, grep
 top, kill  
 touch, echo, awk, less, cat, sed, |  
 vim
+Up arrow key: previous command
