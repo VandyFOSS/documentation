@@ -43,3 +43,5 @@ Feel free to add projects or other issues here too.
 * https://github.com/NixOS/nix/pull/3173
 * https://github.com/NixOS/nix/pull/3190
 * https://github.com/NixOS/nix/pull/3191
+* https://github.com/rust-lang/rust/pull/64326
+* https://github.com/rust-lang/rust/pull/64721
