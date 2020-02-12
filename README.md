@@ -32,6 +32,10 @@ See other files for getting started documentation. Current projects:
   * Compare Urho3D to [Apecs](https://github.com/jonascarpay/apecs), a Haskell game engine
     * [A basic tutorial for Apecs](https://steemit.com/blog/@aas-sh/an-introduction-to-developing-games-in-haskell-with-apecs)
 
+## Rust
+* Significantly decrease the number of lints when running cargo clippy. We are attempting to change how unicode number codes are represented.
+* Todo: Figure out what the code is doing and change the way numbers are outputed.
+
 ## Add your own!
 Feel free to add projects or other issues here too.
 
