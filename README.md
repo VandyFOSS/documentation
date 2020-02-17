@@ -36,6 +36,10 @@ See other files for getting started documentation. Current projects:
 * Significantly decrease the number of lints when running cargo clippy. We are attempting to change how unicode number codes are represented.
 * Todo: Figure out what the code is doing and change the way numbers are outputed.
 
+## Miscellaneous
+* [GatsbyJS](https://www.gatsbyjs.org)
+  * [#14228](https://github.com/gatsbyjs/gatsby/issues/14228) Gatsby docs need to be updated. This [page](https://www.gatsbyjs.org/docs/html-generation/) requires replacing mentions of `data.json` with `page-data.json`.
+
 ## Add your own!
 Feel free to add projects or other issues here too.
 
