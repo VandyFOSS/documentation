@@ -55,8 +55,6 @@ Below are some simple terminal commands to navigate the file system:
     'Up Arrow'  last entered command
 
 ## Getting Help
-scream desperately
-
 Most commands have a -h or --help option  
 man [command] will open the manual page  
 man -k [keyword] will search manual pages for a term
