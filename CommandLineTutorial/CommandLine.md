@@ -55,19 +55,34 @@ Below are some simple terminal commands to navigate the file system:
     'Up Arrow'  last entered command
 
 ## Getting Help
-Most commands have a -h or --help option  
-man [command] will open the manual page  
-man -k [keyword] will search manual pages for a term
+Most commands have a -h or --help option, for example:
+
+    vim -h
+    vim --help
+
+For more detailed information on command, most commands also has a manual page, for example:
+
+    man [command]
+
+To search manual pages for a term:
+
+    man -k [keyword]
 
 ## Sudo
-sudo [command]: run command as superuser (grants admin access and lets command make important changes)
+The sudo command before another line of command runs a command as root or admin user
+
+    sudo [command]
 
 ## Package Management
-sudo apt update  
-sudo apt upgrade  
-sudo apt install [package]  
-sudo apt remove [package]  
-apt-cache search [keyword] 
+Most Linux based operating systems, such as Ubuntu, come with an application manager much like how MacOS has 'App Store' and Windows has 'Microsoft Store'. 
+
+Some basic instructions to navigate the application manager are as follows:
+
+    sudo apt update  
+    sudo apt upgrade  
+    sudo apt install [package]  
+    sudo apt remove [package]  
+    apt-cache search [keyword] 
 
 ## Variables
 Set variable: var=value  
