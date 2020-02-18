@@ -5,38 +5,58 @@ and how to find our information about the things you need.
 # Intro to command line
 ## Basics
 To open terminal:
-###
+
     Linux: Ctrl+Alt+T, or find it in applications
     Windows: open git bash
     Mac: find it in applications
+
 most commands are in the format of
-###
+
     command [options] [args] 
+
 Options are usually preceded by - or --, for example:
-###
+
     vim -h
     vim --help
+
 Arguments usually just follows the command, for example:
-###
+
     Linux: telnet towel.blinkenlights.nl
     Windows: telnet towel.blinkenlights.nl
     Mac Sierra+: nc towel.blinkenlights.nl 23
     Mac Sierra-: telnet towel.blinkenlights.nl
 
 ## File System
-/ is used to separate directories, and / is the root directory of the filesystem   
-~ represents your home directory, or the directory for your user  
-. represents the current directory  
-.. represents the parent directory  
-. is also used to precede hidden files or directories
+File directories consists of folders and files seperated by 
+    
+    /
 
-ls: list contents of a directory (folder)  
-cd: change directory  
-mkdir: create a directory  
-rm: remove (delete) a file. rm -r to remove a folder.  
-Tab key: auto-complete path
+for example:
+    
+    ~/Desktop/folder/file
+
+Below are some special directory and file types:
+
+    /           represents root diretory
+    ~           represents home/user directory
+    .           represents the current directory  
+    ..          represents the parent directory  
+    .name       represents hidden files or directories
+    file.ext    represents the file with a specific extention
+
+Below are some simple terminal commands to navigate the file system:
+
+    ls          list contents of a directory (folder)  
+    cd          change directory  
+    mkdir       create a directory  
+    rm          remove a file
+    rm -r       remove a folder.  
+    'Tab'       auto-complete path
+    'Up Arrow'  last entered command
 
 ## Getting Help
+scream desperately
+
 Most commands have a -h or --help option  
 man [command] will open the manual page  
 man -k [keyword] will search manual pages for a term
