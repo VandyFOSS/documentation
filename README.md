@@ -20,23 +20,22 @@ If you're not, continue below to our Bounty List.
 
 # Bounty List
 
-Listed here are the open source issues that you can work on. Put your name down for the issue you want to claim.
+Listed here are the open source issues that you can work on. Click here to [claim an issue](#claim-an-issue) or [add an issue](#add-an-issue).
+
+
+| Technology | Title | Brief Description | Link   | Member     | Difficulty |
+| ---        | ---   | ---               | ---    | ---        | ---        |
+| Python | urljoin| urljoin does not follow Internet Standard when resolving relative path in edge case | [link](https://bugs.python.org/issue37235) | [Viet Than](https://github.com/VietThan) | 2 star |
+| Nix | Typo | Typo: on or the other -> one or the other | [link](https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/virtualization/nixos-container/nixos-container.pl) |  | 1 star |
+| Nix | bashInteractive | Make bashInteractive default | [link](https://github.com/NixOS/nix/issues/2965) [link](https://github.com/NixOS/nix/pull/3107) |  | 1 star |
+| Ghidra | documentation | Reword last sentence of README.md so that it's understandable | [link](https://github.com/NationalSecurityAgency/ghidra) |  | 0 star |
+| Alacritty | EOL errors | Fix end of line errors while copying in block | [#3304](https://github.com/alacritty/alacritty/issues/3304) |  | 1 star |
+| Alacritty | UX fix | Clear search buffers on mode toggle | [#3290](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
+| Alacritty | Scrollback | Scrollback doesn't work when the output is ongoing | [#3290](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
 
 
 
-See other files for getting started documentation. Current projects:
-
-## Nix
-* Typo: on or the other -> one or the other https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/virtualization/nixos-container/nixos-container.pl
-* Make bashInteractive default per https://github.com/NixOS/nix/issues/2965 and https://github.com/NixOS/nix/pull/3107
-
-## Ghidra
-* Reword last sentence of README.md so that it's understandable
-
-## Alacritty
-* [#3304](https://github.com/alacritty/alacritty/issues/3304) Fix end of line errors while copying in block 
-* [#3290](https://github.com/alacritty/alacritty/issues/3290) Clear search buffers on mode toggle
-* [#3232](https://github.com/alacritty/alacritty/issues/3232) Scrollback doesn't work when the output is ongoing
+# TO BE AMMENDED
 
 ## Urho3D
 * Links:
