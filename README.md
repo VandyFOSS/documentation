@@ -1,3 +1,29 @@
+````
+-----------------------------          _______  _______  _______  _______ ------------------------------
+-----------------------------|\     /|(  ____ \(  ___  )(  ____ \(  ____ \------------------------------
+-----------------------------| )   ( || (    \/| (   ) || (    \/| (    \/------------------------------
+-----------------------------| |   | || (__    | |   | || (_____ | (_____ ------------------------------
+-----------------------------( (   ) )|  __)   | |   | |(_____  )(_____  )------------------------------
+----------------------------- \ \_/ / | (      | |   | |      ) |      ) |------------------------------
+-----------------------------  \   /  | )      | (___) |/\____) |/\____) |------------------------------
+-----------------------------   \_/   |/       (_______)\_______)\_______)------------------------------
+                                   Vanderbilt Free & Open Source Society
+````                                             
+
+<p align="center"><strong>Welcome to Vandy's Open Source One Stop Shop</strong></p>
+
+## Getting Started
+
+If you're new, read our [Guide for New Members](NEW_MEMBER_GUIDE.md).
+
+If you're not, continue below to our Bounty List.
+
+# Bounty List
+
+Listed here are the open source issues that you can work on. Put your name down for the issue you want to claim.
+
+
+
 See other files for getting started documentation. Current projects:
 
 ## Nix
