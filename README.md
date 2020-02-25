@@ -40,12 +40,12 @@ Listed here are the open source issues that you can work on. Click here to [clai
 
 | Technology | Title | Brief Description | Link   | Member     | Difficulty |
 | ---        | ---   | ---               | ---    | ---        | ---        |
-| NixOS | typo | fix typo | [#3173](https://github.com/NixOS/nix/pull/3173) | [Matt Kenigsberg](https://github.com/mkenigs) | 1 star |
-| NixOS | syntax | change deprecated attribute syntax in run examples | [#3190](https://github.com/NixOS/nix/pull/3190) | [Matt Kenigsberg](https://github.com/mkenigs) | 1 star |
-| NixOS | arguments | environment fixes in run | [#3191](https://github.com/NixOS/nix/pull/3191) | [Matt Kenigsberg](https://github.com/mkenigs) | 3 star |
-| Rust | documentation | Fixed documentation within c_str::from_ptr | [#64326](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 2 star |
-| Rust | Optimization | (1) we do not have to worry about a possible negative number. (2) max from the children isn't updated correctly | [#64326](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 3 star |
-| VS Code | Optimization | Removes redundant flags from tsconfig.base.json | [#91050](https://github.com/microsoft/vscode/pull/91050) | [Hunter](https://github.com/hman523) | 3 star |
+| NixOS | typo | fix typo | [link](https://github.com/NixOS/nix/pull/3173) | [Matt K](https://github.com/mkenigs) | 1 star |
+| NixOS | syntax | change deprecated attribute syntax in run examples | [link](https://github.com/NixOS/nix/pull/3190) | [Matt K](https://github.com/mkenigs) | 1 star |
+| NixOS | arguments | environment fixes in run | [link](https://github.com/NixOS/nix/pull/3191) | [Matt K](https://github.com/mkenigs) | 3 star |
+| Rust | documentation | Fixed documentation within c_str::from_ptr | [link](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 2 star |
+| Rust | Optimization | (1) we do not have to worry about a possible negative number. (2) max from the children isn't updated correctly | [link](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 3 star |
+| VS Code | Optimization | Removes redundant flags from tsconfig.base.json | [link](https://github.com/microsoft/vscode/pull/91050) | [Hunter](https://github.com/hman523) | 3 star |
 
 
 
