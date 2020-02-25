@@ -29,8 +29,8 @@ Listed here are the open source issues that you can work on. Click here to [clai
 | Nix | Typo | Typo: on or the other -> one or the other | [link](https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/virtualization/nixos-container/nixos-container.pl) |  | 1 star |
 | Nix | bashInteractive | Make bashInteractive default | [link](https://github.com/NixOS/nix/issues/2965) [link](https://github.com/NixOS/nix/pull/3107) |  | 1 star |
 | Ghidra | documentation | Reword last sentence of README.md so that it's understandable | [link](https://github.com/NationalSecurityAgency/ghidra) |  | 0 star |
-| Alacritty | UX fix | Clear search buffers on mode toggle | [#3290](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
-| Alacritty | Scrollback | Scrollback doesn't work when the output is ongoing | [#3290](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
+| Alacritty | UX fix | Clear search buffers on mode toggle | [link](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
+| Alacritty | Scrollback | Scrollback doesn't work when the output is ongoing | [link](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
 | Rust | Scrollback | Significantly decrease the number of lints when running cargo clippy. We are attempting to change how unicode number codes are represented. Figure out what the code is doing and change the way numbers are outputed.|  |  | >2 star |
 | GatsbyJS | Documentation | Gatsby docs need to be updated.change how unicode number codes are represented. requires replacing mentions of `data.json` with `page-data.json`. | [link](https://www.gatsbyjs.org/docs/html-generation/) |  | >2 star |
 
