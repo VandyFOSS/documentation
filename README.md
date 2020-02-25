@@ -10,15 +10,15 @@
                                    Vanderbilt Free & Open Source Society
 ````                                             
 
-<p align="center"><strong>Welcome to Vandy's Open Source One Stop Shop</strong></p>
+<p align="center"><strong>Welcome to VFOSS</strong></p>
 
 ## Getting Started
 
 If you're new, read our [Guide for New Members](NEW_MEMBER_GUIDE.md).
 
-If you're not, continue below to our Bounty List.
+If you're not, continue below to our Projects List.
 
-# Bounty List
+# Projects List
 
 Listed here are the open source issues that you can work on. Click here to [claim an issue](#claim-an-issue) or [add an issue](#add-an-issue).
 
@@ -32,10 +32,12 @@ Listed here are the open source issues that you can work on. Click here to [clai
 | Alacritty | EOL errors | Fix end of line errors while copying in block | [#3304](https://github.com/alacritty/alacritty/issues/3304) |  | 1 star |
 | Alacritty | UX fix | Clear search buffers on mode toggle | [#3290](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
 | Alacritty | Scrollback | Scrollback doesn't work when the output is ongoing | [#3290](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
+| Rust | Scrollback | Significantly decrease the number of lints when running cargo clippy. We are attempting to change how unicode number codes are represented. Figure out what the code is doing and change the way numbers are outputed.|  |  | >2 star |
+| GatsbyJS | Documentation | Gatsby docs need to be updated.change how unicode number codes are represented. requires replacing mentions of `data.json` with `page-data.json`. | [link](https://www.gatsbyjs.org/docs/html-generation/) |  | >2 star |
 
 
 
-# TO BE AMMENDED
+# TO BE AMENDED
 
 ## Urho3D
 * Links:
@@ -57,13 +59,7 @@ Listed here are the open source issues that you can work on. Click here to [clai
   * Compare Urho3D to [Apecs](https://github.com/jonascarpay/apecs), a Haskell game engine
     * [A basic tutorial for Apecs](https://steemit.com/blog/@aas-sh/an-introduction-to-developing-games-in-haskell-with-apecs)
 
-## Rust
-* Significantly decrease the number of lints when running cargo clippy. We are attempting to change how unicode number codes are represented.
-* Todo: Figure out what the code is doing and change the way numbers are outputed.
 
-## Miscellaneous - feel free to add other projects or issues!
-* [GatsbyJS](https://www.gatsbyjs.org)
-  * [#14228](https://github.com/gatsbyjs/gatsby/issues/14228) Gatsby docs need to be updated. This [page](https://www.gatsbyjs.org/docs/html-generation/) requires replacing mentions of `data.json` with `page-data.json`.
 
 ## Merged PRs :tada:
 * https://github.com/NixOS/nix/pull/3173
