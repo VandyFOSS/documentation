@@ -1,16 +1,56 @@
-See other files for getting started documentation. Current projects:
+````
+-----------------------------          _______  _______  _______  _______ ------------------------------
+-----------------------------|\     /|(  ____ \(  ___  )(  ____ \(  ____ \------------------------------
+-----------------------------| )   ( || (    \/| (   ) || (    \/| (    \/------------------------------
+-----------------------------| |   | || (__    | |   | || (_____ | (_____ ------------------------------
+-----------------------------( (   ) )|  __)   | |   | |(_____  )(_____  )------------------------------
+----------------------------- \ \_/ / | (      | |   | |      ) |      ) |------------------------------
+-----------------------------  \   /  | )      | (___) |/\____) |/\____) |------------------------------
+-----------------------------   \_/   |/       (_______)\_______)\_______)------------------------------
+                                   Vanderbilt Free & Open Source Society
+````                                             
 
-## Nix
-* Typo: on or the other -> one or the other https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/virtualization/nixos-container/nixos-container.pl
-* Make bashInteractive default per https://github.com/NixOS/nix/issues/2965 and https://github.com/NixOS/nix/pull/3107
+<p align="center"><strong>Welcome to VFOSS</strong></p>
 
-## Ghidra
-* Reword last sentence of README.md so that it's understandable
+## Getting Started
 
-## Alacritty
-* [#3304](https://github.com/alacritty/alacritty/issues/3304) Fix end of line errors while copying in block 
-* [#3290](https://github.com/alacritty/alacritty/issues/3290) Clear search buffers on mode toggle
-* [#3232](https://github.com/alacritty/alacritty/issues/3232) Scrollback doesn't work when the output is ongoing
+If you're new, read our [Guide for New Members](NEW_MEMBER_GUIDE.md).
+
+If you're not, continue below to our Projects List.
+
+# Projects List
+
+Listed here are the open source issues that you can work on. Click here to [claim an issue](#claim-an-issue) or [add an issue](#add-an-issue).
+
+
+| Technology | Title | Brief Description | Link   | Member     | Difficulty |
+| ---        | ---   | ---               | ---    | ---        | ---        |
+| Python | urljoin| urljoin does not follow Internet Standard when resolving relative path in edge case | [link](https://bugs.python.org/issue37235) | [Viet Than](https://github.com/VietThan) | 2 star |
+| Nix | Typo | Typo: on or the other -> one or the other | [link](https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/virtualization/nixos-container/nixos-container.pl) |  | 1 star |
+| Nix | bashInteractive | Make bashInteractive default | [link](https://github.com/NixOS/nix/issues/2965) [link](https://github.com/NixOS/nix/pull/3107) |  | 1 star |
+| Ghidra | documentation | Reword last sentence of README.md so that it's understandable | [link](https://github.com/NationalSecurityAgency/ghidra) |  | 0 star |
+| Alacritty | UX fix | Clear search buffers on mode toggle | [link](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
+| Alacritty | Scrollback | Scrollback doesn't work when the output is ongoing | [link](https://github.com/alacritty/alacritty/issues/3290) |  | 1 star |
+| Rust | Scrollback | Significantly decrease the number of lints when running cargo clippy. We are attempting to change how unicode number codes are represented. Figure out what the code is doing and change the way numbers are outputed.|  |  | >2 star |
+| GatsbyJS | Documentation | Gatsby docs need to be updated.change how unicode number codes are represented. requires replacing mentions of `data.json` with `page-data.json`. | [link](https://www.gatsbyjs.org/docs/html-generation/) |  | >2 star |
+
+
+
+## :tada: :tada: :tada: :tada: :tada: Merged PRs :tada: :tada: :tada: :tada: :tada:
+
+| Technology | Title | Brief Description | Link   | Member     | Difficulty |
+| ---        | ---   | ---               | ---    | ---        | ---        |
+| NixOS | typo | fix typo | [link](https://github.com/NixOS/nix/pull/3173) | [Matt K](https://github.com/mkenigs) | 1 star |
+| NixOS | syntax | change deprecated attribute syntax in run examples | [link](https://github.com/NixOS/nix/pull/3190) | [Matt K](https://github.com/mkenigs) | 1 star |
+| NixOS | arguments | environment fixes in run | [link](https://github.com/NixOS/nix/pull/3191) | [Matt K](https://github.com/mkenigs) | 3 star |
+| Rust | documentation | Fixed documentation within c_str::from_ptr | [link](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 2 star |
+| Rust | Optimization | (1) we do not have to worry about a possible negative number. (2) max from the children isn't updated correctly | [link](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 3 star |
+| VS Code | Optimization | Removes redundant flags from tsconfig.base.json | [link](https://github.com/microsoft/vscode/pull/91050) | [Baibhav](https://github.com/mjbvz) | 3 star |
+
+
+
+
+# TO BE AMENDED
 
 ## Urho3D
 * Links:
@@ -31,19 +71,3 @@ See other files for getting started documentation. Current projects:
   * Later: Implement a Haskell/Lisp scripting frontend for Urho3D?
   * Compare Urho3D to [Apecs](https://github.com/jonascarpay/apecs), a Haskell game engine
     * [A basic tutorial for Apecs](https://steemit.com/blog/@aas-sh/an-introduction-to-developing-games-in-haskell-with-apecs)
-
-## Rust
-* Significantly decrease the number of lints when running cargo clippy. We are attempting to change how unicode number codes are represented.
-* Todo: Figure out what the code is doing and change the way numbers are outputed.
-
-## Miscellaneous - feel free to add other projects or issues!
-* [GatsbyJS](https://www.gatsbyjs.org)
-  * [#14228](https://github.com/gatsbyjs/gatsby/issues/14228) Gatsby docs need to be updated. This [page](https://www.gatsbyjs.org/docs/html-generation/) requires replacing mentions of `data.json` with `page-data.json`.
-
-## Merged PRs :tada:
-* https://github.com/NixOS/nix/pull/3173
-* https://github.com/NixOS/nix/pull/3190
-* https://github.com/NixOS/nix/pull/3191
-* https://github.com/rust-lang/rust/pull/64326
-* https://github.com/rust-lang/rust/pull/64721
-* https://github.com/microsoft/vscode/pull/91050
