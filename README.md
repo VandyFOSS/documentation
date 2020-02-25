@@ -36,7 +36,7 @@ Listed here are the open source issues that you can work on. Click here to [clai
 
 
 
-## :tada: Merged PRs :tada:
+## :tada: :tada: :tada: :tada: :tada: Merged PRs :tada: :tada: :tada: :tada: :tada:
 
 | Technology | Title | Brief Description | Link   | Member     | Difficulty |
 | ---        | ---   | ---               | ---    | ---        | ---        |
@@ -45,7 +45,7 @@ Listed here are the open source issues that you can work on. Click here to [clai
 | NixOS | arguments | environment fixes in run | [link](https://github.com/NixOS/nix/pull/3191) | [Matt K](https://github.com/mkenigs) | 3 star |
 | Rust | documentation | Fixed documentation within c_str::from_ptr | [link](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 2 star |
 | Rust | Optimization | (1) we do not have to worry about a possible negative number. (2) max from the children isn't updated correctly | [link](https://github.com/rust-lang/rust/pull/64326) | [Hunter](https://github.com/hman523) | 3 star |
-| VS Code | Optimization | Removes redundant flags from tsconfig.base.json | [link](https://github.com/microsoft/vscode/pull/91050) | [Hunter](https://github.com/hman523) | 3 star |
+| VS Code | Optimization | Removes redundant flags from tsconfig.base.json | [link](https://github.com/microsoft/vscode/pull/91050) | [Baibhav](https://github.com/mjbvz) | 3 star |
 
 
 
