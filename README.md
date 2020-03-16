@@ -23,7 +23,6 @@ See other files for getting started documentation. Current projects:
 * Reword last sentence of README.md so that it's understandable
 
 ## Alacritty
-* [#3304](https://github.com/alacritty/alacritty/issues/3304) Fix end of line errors while copying in block 
 * [#3290](https://github.com/alacritty/alacritty/issues/3290) Clear search buffers on mode toggle
 * [#3232](https://github.com/alacritty/alacritty/issues/3232) Scrollback doesn't work when the output is ongoing
 
