@@ -16,7 +16,7 @@
 See other files for getting started documentation. Current projects:
 
 ## Nix
-* Typo: on or the other -> one or the other https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/virtualization/nixos-container/nixos-container.pl
+* Typo: https://github.com/NixOS/nix/blob/6f3244ce4517cc51ef3ffd39025152aa7046ef69/src/libfetchers/registry.cc#L193
 * Make bashInteractive default per https://github.com/NixOS/nix/issues/2965 and https://github.com/NixOS/nix/pull/3107
 
 ## Ghidra
