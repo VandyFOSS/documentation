@@ -58,6 +58,7 @@ See other files for getting started documentation. Current projects:
 * https://github.com/NixOS/nix/pull/3173
 * https://github.com/NixOS/nix/pull/3190
 * https://github.com/NixOS/nix/pull/3191
+* https://github.com/NixOS/nixpkgs/pull/79783
 * https://github.com/rust-lang/rust/pull/64326
 * https://github.com/rust-lang/rust/pull/64721
 * https://github.com/microsoft/vscode/pull/91050
