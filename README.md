@@ -17,9 +17,8 @@ See other files for getting started documentation. Current projects:
 
 ## Nix
 * Typo: https://github.com/NixOS/nix/blob/6f3244ce4517cc51ef3ffd39025152aa7046ef69/src/libfetchers/registry.cc#L193
-* Make bashInteractive default per
-  https://github.com/NixOS/nix/issues/2965 and
-  https://github.com/NixOS/nix/pull/3107
+* https://github.com/NixOS/nix/issues/3533
+* ask @mkenigs for help and other good issues
 
 ## Nixpkgs
 * New packages
