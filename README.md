@@ -29,6 +29,7 @@ See other files for getting started documentation. Current projects:
     [mkrom](https://github.com/NixOS/nixpkgs/pull/95842),
     [kpack](https://github.com/NixOS/nixpkgs/pull/95846),
     [knightos-mkrom](https://github.com/NixOS/nixpkgs/pull/97545)
+* Enforce lower case names for executables (eg https://github.com/NixOS/nixpkgs/blob/1937fd3f1906e2c0909e889ddd31f2e77cbd8bfc/pkgs/applications/networking/instant-messengers/discord/default.nix#L8) and package names (eg https://github.com/NixOS/nixpkgs/blob/5897bf1f60dd488ee9513d4c9df42d8b5f48e63a/pkgs/misc/vscode-extensions/default.nix#L29)
 
 ## Ghidra
 * Reword last sentence of README.md so that it's understandable
