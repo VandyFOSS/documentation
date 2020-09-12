@@ -17,7 +17,19 @@ See other files for getting started documentation. Current projects:
 
 ## Nix
 * Typo: https://github.com/NixOS/nix/blob/6f3244ce4517cc51ef3ffd39025152aa7046ef69/src/libfetchers/registry.cc#L193
-* Make bashInteractive default per https://github.com/NixOS/nix/issues/2965 and https://github.com/NixOS/nix/pull/3107
+* Make bashInteractive default per
+  https://github.com/NixOS/nix/issues/2965 and
+  https://github.com/NixOS/nix/pull/3107
+
+## Nixpkgs
+* New packages
+  * [mozwire](https://github.com/NixOS/nixpkgs/pull/95754),
+    [knightos-kcc](https://github.com/NixOS/nixpkgs/pull/95891),
+    [kimg](https://github.com/NixOS/nixpkgs/pull/95890),
+    [scas](https://github.com/NixOS/nixpkgs/pull/94165),
+    [mkrom](https://github.com/NixOS/nixpkgs/pull/95842),
+    [kpack](https://github.com/NixOS/nixpkgs/pull/95846),
+    [knightos-mkrom](https://github.com/NixOS/nixpkgs/pull/97545)
 
 ## Ghidra
 * Reword last sentence of README.md so that it's understandable
@@ -62,3 +74,10 @@ See other files for getting started documentation. Current projects:
 * https://github.com/rust-lang/rust/pull/64326
 * https://github.com/rust-lang/rust/pull/64721
 * https://github.com/microsoft/vscode/pull/91050
+* https://github.com/NixOS/nixpkgs/pull/95754
+* https://github.com/NixOS/nixpkgs/pull/95891
+* https://github.com/NixOS/nixpkgs/pull/95890
+* https://github.com/NixOS/nixpkgs/pull/94165
+* https://github.com/NixOS/nixpkgs/pull/95842
+* https://github.com/NixOS/nixpkgs/pull/95846
+* https://github.com/NixOS/nixpkgs/pull/97545
