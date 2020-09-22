@@ -17,7 +17,6 @@ See other files for getting started documentation. Current projects:
 
 ## Nix
 * Typo: https://github.com/NixOS/nix/blob/6f3244ce4517cc51ef3ffd39025152aa7046ef69/src/libfetchers/registry.cc#L193
-* Typo: https://github.com/NixOS/nix/blob/master/src/libexpr/flake/flake.cc#L369
 * https://github.com/NixOS/nix/issues/3533
 * Fixme: https://github.com/NixOS/nix/blob/master/src/libexpr/flake/flake.cc#L22
 * ask @mkenigs for help and other good issues
