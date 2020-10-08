@@ -1,11 +1,11 @@
 Run any commands in Terminal (Mac or Linux) or git-bash (Windows). Make sure to replace anything in braces.
 
-1. Check if git is installed by running `git --version` in Terminal or look for git-bash on Windows. If not installed download it at [git-scm.com/downloads]( https://git-scm.com/downloads).
+1. Check if git is installed by running `git --version` in Terminal or look for git-bash on Windows. If not installed download it at [git-scm.com/downloads]( https://git-scm.com/downloads). If you wanna take a look at using Git from within Code or want a refresher, check out our [Applying Git Concepts](https://docs.google.com/presentation/d/17B4yPBL-yuNjNKhiLy6TNGBKKFzeOmcA_5uUFtq6gUw/view) workshop from earlier.
 
 2. Find an issue:
     - Go to the issues tab of a project you think sounds interesting! Most repos have a label like good-first-issue.
     - Good list of projects you can filter by language: [codetriage.com](https://codetriage.com)
-    - All open issues with hacktoberfest on Github: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+
+    - All open issues with hacktoberfest on Github: https://github.com/topics/hacktoberfest
     - Another good list of projects: https://github.com/mungell/awesome-for-beginners
 
 3. Fork the project on GitHub:
